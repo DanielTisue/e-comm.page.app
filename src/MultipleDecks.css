@@ -1,0 +1,10 @@
+.MultipleDecks-cards {
+  display: flex;
+  justify-items: space-evenly;
+  flex-wrap: wrap;
+
+}
+
+.MultipleDecks-title {
+  text-align: center;
+}
