@@ -1,4 +1,4 @@
-# E-commerce Skate Deck Display Page
+# REACT: E-commerce SkateDeck Page
 * This was an exploration into Create-React-App. Its is a single page display rendering 9 examples of skateboards.
 
 ## Summary
