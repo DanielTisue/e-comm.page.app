@@ -9,8 +9,7 @@ The only app created css remains in index.css. All other css created from scratc
 
 - HTML, CSS, ReactJS, ReactDOM, Create React App
 
-### Important
-Security alert for Lo-dash dependicies lower than 4.5.0. This demo app contains a version of lodash < 4.5.0.
+
 
 
 
